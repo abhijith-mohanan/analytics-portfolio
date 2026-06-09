@@ -21,8 +21,13 @@ An interactive web application built with HTML and JavaScript that takes
 a shipment weight as input, calculates the shipping cost using DOM 
 manipulation, and displays the result on the page with input validation.
 
+### 4. OOP Basics (Python)
+Object-Oriented Programming concepts in Python using logistics-themed 
+examples. Covers classes, objects, inheritance, encapsulation, getters, 
+setters, @property, dunder methods, and instance/class/static methods.
+
 ## Skills Covered
-Python, JavaScript, HTML, DOM Manipulation, SQL, Pandas, Excel, Power BI
+Python, OOP, JavaScript, HTML, DOM Manipulation, SQL, Pandas, Excel, Power BI
 
 ## About Me
 I'm Abhijith Mohanan, a Master's student in Data Science and Intelligent 
